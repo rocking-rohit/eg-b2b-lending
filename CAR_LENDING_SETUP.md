@@ -198,6 +198,7 @@ The core infrastructure is complete and ready for:
 - Real-time features
 - Mobile app development
 - Advanced analytics
+- More todo
 
 ---
 
